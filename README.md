@@ -1,3 +1,3 @@
-Bárány Bence Richárd
-Mérnökinformatikus Táv
+Bárány Bence Richárd<br />
+Mérnökinformatikus Táv<br />
 CY185R
